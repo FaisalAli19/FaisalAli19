@@ -2,8 +2,6 @@
 
 <!-- **FaisalAli19/FaisalAli19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![MasterHead](your image link)](your GitHub link)
-
 This is the place where I opensource stuff and break things
 
 - 🔭 I’m currently working on awesome stuffs 😉
