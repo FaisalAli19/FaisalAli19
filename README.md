@@ -7,7 +7,7 @@ This is the place where I opensource stuff and break things
 - 🔭 I’m currently working on awesome stuffs 😉
 - 🌱 I’m currently learning Svelte, NestJs
 - 💬 Ask me about anything related to Javascript/Typescript or Angular/React/React Native/Express
-⚡ Fun fact: I ❤️ 🐶s
+- ⚡ Fun fact: I ❤️ 🐶s
 <!-- 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
