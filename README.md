@@ -4,6 +4,7 @@
 
 <!-- **FaisalAli19/FaisalAli19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+Hi, I'm FaisalAli, a Passionate self taught FullStack Developer from India. 
 This is the place where I opensource stuff and break things
 
 - 🔭 I’m currently working on awesome stuffs 😉
@@ -37,6 +38,8 @@ This is the place where I opensource stuff and break things
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FaisalAli19&theme=dracula)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FaisalAli19&theme=juicyfresh&&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 
 
