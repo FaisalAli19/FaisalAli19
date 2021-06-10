@@ -15,4 +15,4 @@ This is the place where I opensource stuff and break things
 - 🤔 I’m looking for help with ... 
 -->
 
-[![FaisalAli's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalAli19&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![FaisalAli's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalAli19&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
