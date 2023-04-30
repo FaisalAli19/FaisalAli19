@@ -2,18 +2,18 @@
 
 <!-- **FaisalAli19/FaisalAli19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="center">Hi 👋, I'm FaisalAli</h1>
-<h3 align="center">A Passionate self taught FullStack Developer from India. This is the place where I opensource stuff and break things</h3><br>
+<h1 align="center">Hey, it's me, FaisalAli. 🤘</h1>
+<h3 align="center">👨‍💻 Passionate self-taught FullStack Developer from India 🇮🇳 with a thirst for knowledge and a drive to innovate. When I'm not exploring the latest tech trends and honing my skills, I love to 🌱 create and contribute to open-source projects, 🔨 break things in pursuit of greatness, and share my coding adventures with others. Whether I'm building sleek user interfaces or tackling complex back-end challenges, I always strive for excellence and approach every task with a sense of creativity and enthusiasm. Thanks for stopping by and joining me on this journey! 🚀</h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalali1901&label=Profile%20views&color=0e75b6&style=flat" alt="faisalali1901" /> </p>
 
 <p align="left"> <a href="https://twitter.com/faisal_pirate" target="blank"><img src="https://img.shields.io/twitter/follow/faisal_pirate?logo=twitter&style=for-the-badge" alt="faisal_pirate" /></a> </p>
 
-- 🔭 I’m currently working on **awesome stuffs**
-- 🌱 I’m currently learning **Svelte, NestJs**
-- 💬 Ask me about **Javascript, React, React native etc**
-- 📫 How to reach me **faisalali1901@gmail.com**
-- ⚡ Fun fact **I ❤️ 🐶s**
+- 🔭 Currently building web applications and exploring blockchain-based solutions.
+- 🌱 Passionate about learning new technologies and always seeking ways to grow.
+- 💬 Love discussing web development and sharing knowledge with others.
+- 📫 Reach out to me at faisalali1901@gmail.com for any inquiries or to connect.
+- ⚡ Fun fact: When I'm not coding, I enjoy spending time with loved ones and discovering new places to explore.
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
