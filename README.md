@@ -3,7 +3,7 @@
 <!-- **FaisalAli19/FaisalAli19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hey, it's me, FaisalAli. 🤘</h1>
-<h3 align="center">👨‍💻 Passionate self-taught FullStack Developer from India 🇮🇳 with a thirst for knowledge and a drive to innovate. When I'm not exploring the latest tech trends and honing my skills, I love to 🌱 create and contribute to open-source projects, 🔨 break things in pursuit of greatness, and share my coding adventures with others. Whether I'm building sleek user interfaces or tackling complex back-end challenges, I always strive for excellence and approach every task with a sense of creativity and enthusiasm. Thanks for stopping by and joining me on this journey! 🚀</h3><br>
+<h3 align="center">👨‍💻 Self-taught FullStack Dev from 🇮🇳 with a drive to innovate. Creating and contributing to open-source projects, breaking things in pursuit of greatness, and sharing my coding adventures with others. Let's journey together! 🚀</h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalali1901&label=Profile%20views&color=0e75b6&style=flat" alt="faisalali1901" /> </p>
 
