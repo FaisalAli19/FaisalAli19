@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/FaisalAli19"><img align="right" src="https://api.daily.dev/devcards/9977810250b14816bda27e980455ff0a.png?r=fs4" width="400" alt="FaisalAli Sayyed's Dev Card"/></a>
+<a href="https://app.daily.dev/faisalali19"><img src="https://api.daily.dev/devcards/v2/_iAeF4sME.png?r=iqk&type=default" width="356" alt="FaisalAli Sayyed's Dev Card"/></a>
 
 <!-- **FaisalAli19/FaisalAli19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
