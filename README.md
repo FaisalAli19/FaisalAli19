@@ -1,7 +1,7 @@
 <!-- **FaisalAli19/FaisalAli19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div align="center">
-  <img src="header.png" width="100%" alt="FaisalAli Header Banner" />
+  <img src="header.jpeg" width="100%" alt="FaisalAli Header Banner" />
 </div>
 
 <h1 align="center">FaisalAli Sayyed</h1>
