@@ -1,7 +1,7 @@
 <!-- **FaisalAli19/FaisalAli19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div align="center">
-  <img src="header.jpeg" width="100%" alt="FaisalAli Header Banner" />
+  <img src="header.png" width="100%" alt="FaisalAli Header Banner" />
 </div>
 
 <h1 align="center">FaisalAli Sayyed</h1>
@@ -37,10 +37,10 @@
 
 As a security researcher and bug bounty hunter, I specialize in identifying critical vulnerabilities in decentralized protocols and smart contracts.
 
-| Platform     | Profile                                                   | Focus Areas                                       |
-| :----------- | :-------------------------------------------------------- | :------------------------------------------------ |
-| **Immunefi** | [View Profile](https://immunefi.com/profile/faisalali19/) | Smart Contract Auditing, Logic Errors, Reentrancy |
-| **Bugcrowd** | [View Profile](https://bugcrowd.com/h/FaisalAli)          | Web2/Web3 Pentesting, Protocol Security           |
+| Platform     | Profile                                                                              | Focus Areas                                       |
+| :----------- | :----------------------------------------------------------------------------------- | :------------------------------------------------ |
+| **Immunefi** | <a href="https://immunefi.com/profile/faisalali19/" target="_blank">View Profile</a> | Smart Contract Auditing, Logic Errors, Reentrancy |
+| **Bugcrowd** | <a href="https://bugcrowd.com/h/FaisalAli" target="_blank">View Profile</a>          | Web2/Web3 Pentesting, Protocol Security           |
 
 **Tools:** `Slither` `Echidna` `Foundry` `Hardhat` `Mythril`
 
@@ -59,7 +59,7 @@ As a security researcher and bug bounty hunter, I specialize in identifying crit
         <img src="https://img.shields.io/badge/BNB_Chain-F3BA2F?style=flat-square&logo=binance&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://www.faisalali.dev/portfolio/1"><b>View Case Study ➜</b></a>
+        <a href="https://www.faisalali.dev/portfolio/1" target="_blank"><b>View Case Study ➜</b></a>
       </p>
     </td>
     <td width="50%">
@@ -71,7 +71,7 @@ As a security researcher and bug bounty hunter, I specialize in identifying crit
         <img src="https://img.shields.io/badge/Optimism-FF0420?style=flat-square&logo=optimism&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://www.faisalali.dev/portfolio/2"><b>View Case Study ➜</b></a>
+        <a href="https://www.faisalali.dev/portfolio/2" target="_blank"><b>View Case Study ➜</b></a>
       </p>
     </td>
   </tr>
@@ -85,7 +85,7 @@ As a security researcher and bug bounty hunter, I specialize in identifying crit
         <img src="https://img.shields.io/badge/Web3-3C3C3D?style=flat-square&logo=web3.js&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://www.faisalali.dev/portfolio/4"><b>View Case Study ➜</b></a>
+        <a href="https://www.faisalali.dev/portfolio/4" target="_blank"><b>View Case Study ➜</b></a>
       </p>
     </td>
   </tr>
